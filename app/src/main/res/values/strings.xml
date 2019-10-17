@@ -1,5 +1,9 @@
 <resources>
-    <string name="app_name">ASM_PS10220</string>
+    <string name="app_name">Quản lý học tập</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_fragment_map">Map</string>
+    <string name="facebook_app_id">2433111083675446</string>
+    <string name="fb_login_protocol_scheme">fb2433111083675446</string>
+
 </resources>
